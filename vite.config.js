@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/repo-test-1-a/swing/',
+  base: '/planet-scale-viz/',
   build: {
-    outDir: 'dist/swing',
+    outDir: 'dist',
   },
 });
